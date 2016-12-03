@@ -10,10 +10,6 @@ name = Uppercase;
 copyright = "Copyright 2016 The Manuale Project Authors (omnibus.type@gmail.com)";
 customParameters = (
 {
-name = description;
-value = "Copyright © 2015-2016 by Omnibus-Type. All rights reserved.";
-},
-{
 name = vendorID;
 value = OMNI;
 },
@@ -478,7 +474,7 @@ capHeight = 614;
 customParameters = (
 {
 name = typoAscender;
-value = 877;
+value = 980;
 },
 {
 name = typoDescender;
@@ -486,11 +482,11 @@ value = -236;
 },
 {
 name = typoLineGap;
-value = 113;
+value = 221;
 },
 {
 name = winAscent;
-value = 877;
+value = 980;
 },
 {
 name = winDescent;
@@ -498,7 +494,7 @@ value = 236;
 },
 {
 name = hheaAscender;
-value = 877;
+value = 980;
 },
 {
 name = hheaDescender;
@@ -506,7 +502,7 @@ value = -236;
 },
 {
 name = hheaLineGap;
-value = 113;
+value = 221;
 }
 );
 descender = -195;
